@@ -7,6 +7,8 @@ public class GitDemo {
 
 		
 		System.out.println("Hii ");
+		//gitx code edited after gitdemo 
+		System.out.println("I am gitx");
 	}
 
 }
