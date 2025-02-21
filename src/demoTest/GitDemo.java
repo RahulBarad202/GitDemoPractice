@@ -19,6 +19,8 @@ public class GitDemo {
 		//changes by boss
 		System.out.println("I am GitDemoPractice person1");
 
+		//java1 branch
+		System.out.println("java1");
 	}
 
 }
